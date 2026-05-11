@@ -1,0 +1,1 @@
+/home/name/Dokumente/University/2026Summer/Rust/Hausaufgaben/common_programming_concepts/target/debug/common_programming_concepts: /home/name/Dokumente/University/2026Summer/Rust/Hausaufgaben/common_programming_concepts/src/main.rs
